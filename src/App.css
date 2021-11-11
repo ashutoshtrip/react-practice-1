@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+
+}
+
+.ul{
+width: 100%;
+  display: flex;
+
+justify-content: center;
+align-items: center;
+  flex-direction: column;
+}
+.ul li
+{
+  list-style: none;
+  height: 10vh;
+  border: 2px solid black;
+justify-self: center;
+  text-align: center;
+  width: 300px;
+  margin: 20px;
+}
+
+
+
+
